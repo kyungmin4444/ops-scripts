@@ -81,3 +81,6 @@ send "exit\r"
  
 expect eof
 
+
+# https://engineer-mole.tistory.com/233
+
